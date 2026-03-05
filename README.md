@@ -2,9 +2,9 @@
 
 Matthew here, I'm a software developer currently building things in the realm of iOS development. If you would like to solve problems and build cool things together get in touch!
 
-- 📱 I’m currently working at Zendesk, building a new generation of SDKs since 2020.
-- 🧑‍💻 I’m always learning new things in Swift.
-- 🚎 I have previously worked on projects related to public transportation data using the General Transit Feed Specification (GTFS).
+- 📱 I previously worked at Zendesk, building its new generation of SDKs from 2020-2025.
+- 🚎 I also work on projects related to public transportation data using the General Transit Feed Specification (GTFS).
+- 🧑‍💻 I am always learning new things in Swift.
 
 <!--
 **matthewoleary/matthewoleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
